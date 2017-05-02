@@ -4,3 +4,5 @@ flask-uploads
 pymysql
 SQLAlchemy
 gunicorn
+cryptography
+wechatpy
